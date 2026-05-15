@@ -1,0 +1,79 @@
+# 🚀 Claude Code Super-Skills Repository
+
+Welcome to the ultimate collection of specialized skills for Claude Code. This repository contains a curated set of `.skill` files designed to augment Claude's capabilities, transforming standard AI output into professional-grade software engineering deliverables.
+
+By utilizing these specialized roles, you can ensure that your project follows industry best practices, architectural integrity, and rigorous quality standards—making the output significantly superior to generic prompts.
+
+---
+
+## 🛠️ How to Use
+To invoke a skill, use the `/` command followed by the skill name (e.g., `/senior-architect`).
+
+## 📖 Skill Catalog & Usage Guide
+
+### 🏗️ Architecture & Planning
+*Use these when you are starting a new feature or refactoring a system to avoid technical debt.*
+
+| Skill | When to Use |
+| :--- | :--- |
+| `senior-architect` | For high-level system design, choosing the right patterns, and ensuring scalability. |
+| `writing-plans` | When you need a detailed, step-by-step implementation plan before writing code. |
+| `executing-plans` | To guide Claude through the precise execution of a pre-approved plan. |
+| `subagent-driven-development` | For complex tasks that require splitting work across multiple specialized agents. |
+
+### 💻 Engineering Specializations
+*Use these to bring deep domain expertise to specific parts of your stack.*
+
+| Skill | When to Use |
+| :--- | :--- |
+| `senior-backend` | For API design, database optimization, and server-side logic. |
+| `frontend-design` | For building intuitive, accessible, and beautiful user interfaces. |
+| `senior-ml-engineer` | For integrating AI models, data processing, and machine learning pipelines. |
+| `docker-expert` | For containerization, orchestration, and optimizing Dockerfiles. |
+| `seo-optimizer` | For improving search engine visibility and web performance. |
+
+### 🛡️ Quality, Security & Testing
+*Use these before every commit or merge to ensure your code is production-ready.*
+
+| Skill | When to Use |
+| :--- | :--- |
+| `senior-security` | To audit code for vulnerabilities (OWASP Top 10) and implement secure auth. |
+| `code-reviewer` | For rigorous peer-review of changes to ensure maintainability and style. |
+| `test-driven-development` | When you want to write tests *first* to define the desired behavior. |
+| `senior-qa` | For comprehensive edge-case analysis and overall quality assurance. |
+| `find-bugs` | To proactively hunt for logical flaws or memory leaks in existing code. |
+| `webapp-testing` / `playwright-skill` | For automating end-to-end browser tests and UI validation. |
+
+### ⚡ Workflow & Productivity
+*Use these to clean up your workspace and accelerate your development cycle.*
+
+| Skill | When to Use |
+| :--- | :--- |
+| `skill-builder` | When you need to create a *new* custom skill for a recurring specialized task. |
+| `workflow-automation` | To automate repetitive scripts or CI/CD pipeline tasks. |
+| `file-organizer` | For restructuring directories and cleaning up project clutter. |
+| `impeccable` | For a final "polish" pass on code to make it perfectly clean and idiomatic. |
+| `finishing-a-development-branch` | To handle the final cleanup, documentation, and PR preparation. |
+
+### 🎨 UI/UX & Motion Design
+*Use these for high-end, modern web experiences.*
+
+| Skill | When to Use |
+| :--- | :--- |
+| `3d-web-experience` | For implementing Three.js, WebGL, or immersive 3D environments. |
+| `design-motion-principles` | For adding professional animations and meaningful transitions. |
+| `scroll-experience` | For creating advanced scroll-linked animations and storytelling layouts. |
+
+### 🦴 The Caveman Suite
+*A specialized set of tools for a specific development philosophy (focused on raw efficiency and streamlined output).*
+
+- `caveman`, `cavecrew`, `caveman-commit`, `caveman-review`, `caveman-stats`
+
+---
+
+## 🌟 Summary for Maximum Impact
+
+- **Planning Phase** $\rightarrow$ `/senior-architect` $\rightarrow$ `/writing-plans`
+- **Coding Phase** $\rightarrow$ `/senior-backend` or `/frontend-design`
+- **Review Phase** $\rightarrow$ `/code-reviewer` $\rightarrow$ `/senior-security` $\rightarrow$ `/senior-qa`
+- **Final Polish** $\rightarrow$ `/impeccable` $\rightarrow$ `/finishing-a-development-branch`
