@@ -1,0 +1,1067 @@
+﻿{
+    "updated":  "2026-06-03T14:43:27Z",
+    "skills":  [
+                   {
+                       "name":  "seo-schema",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-schema",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Detect, validate, and generate Schema.org structured data in JSON-LD",
+                       "triggers":  [
+                                        "schema",
+                                        "structured data",
+                                        "json-ld",
+                                        "rich results",
+                                        "markup"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-plan",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-plan",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Strategic SEO planning with industry-specific templates and roadmap",
+                       "triggers":  [
+                                        "seo plan",
+                                        "seo strategy",
+                                        "content strategy",
+                                        "keyword strategy"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-page",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-page",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Deep single-page SEO: on-page elements, meta tags, schema, images, performance",
+                       "triggers":  [
+                                        "page analysis",
+                                        "single page seo",
+                                        "on-page seo"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-technical",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-technical",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Technical SEO: crawlability, indexability, security, CWV, rendering",
+                       "triggers":  [
+                                        "technical seo",
+                                        "crawlability",
+                                        "indexability",
+                                        "robots.txt",
+                                        "canonical"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-sxo",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-sxo",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Search Experience Optimization: intent alignment and page-type matching",
+                       "triggers":  [
+                                        "search experience",
+                                        "intent",
+                                        "serp analysis",
+                                        "page type"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-sitemap",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-sitemap",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Analyze and generate XML sitemaps with industry templates",
+                       "triggers":  [
+                                        "sitemap",
+                                        "xml sitemap",
+                                        "generate sitemap"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-images",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-images",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Image optimization: alt text, formats, lazy loading, CLS, image SERP",
+                       "triggers":  [
+                                        "image optimization",
+                                        "alt text",
+                                        "image seo",
+                                        "webp",
+                                        "lazy loading"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-backlinks",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-backlinks",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Backlink profile: referring domains, anchor text, toxic links, gap analysis",
+                       "triggers":  [
+                                        "backlink",
+                                        "referring domain",
+                                        "link profile",
+                                        "anchor text"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-audit",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-audit",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Full website SEO audit with subagent delegation, crawls up to 500 pages",
+                       "triggers":  [
+                                        "seo audit",
+                                        "full seo",
+                                        "website health",
+                                        "analyze site"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-flow",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/content/seo-flow",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "FLOW framework: Find, Leverage, Optimize, Win evidence-led SEO",
+                       "triggers":  [
+                                        "flow framework",
+                                        "seo flow",
+                                        "find leverage optimize"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-google",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-google",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Google Search Console, PageSpeed, CrUX, Indexing API, GA4 organic",
+                       "triggers":  [
+                                        "search console",
+                                        "pagespeed",
+                                        "crux",
+                                        "field data",
+                                        "indexing api",
+                                        "lighthouse"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-geo",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-geo",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Optimize for AI Overviews, ChatGPT, Perplexity and AI-powered search",
+                       "triggers":  [
+                                        "ai overview",
+                                        "sge",
+                                        "generative engine",
+                                        "chatgpt search",
+                                        "perplexity",
+                                        "ai search"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-content",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/core/seo-content",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "Content quality and E-E-A-T analysis with AI citation readiness",
+                       "triggers":  [
+                                        "content quality",
+                                        "e-e-a-t",
+                                        "content analysis",
+                                        "readability"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-competitors",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-competitors",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "Deep competitive intelligence: battle cards, pricing landscape, feature matrix",
+                       "triggers":  [
+                                        "competitor",
+                                        "competitive analysis",
+                                        "battle card",
+                                        "pricing comparison",
+                                        "market landscape"
+                                    ]
+                   },
+                   {
+                       "name":  "webapp-testing",
+                       "tags":  [
+                                    "testing",
+                                    "qa"
+                                ],
+                       "path":  "testing/webapp-testing",
+                       "priority":  "core",
+                       "category":  "testing",
+                       "description_short":  "Playwright-based local web app testing with screenshots and browser logs",
+                       "triggers":  [
+                                        "playwright",
+                                        "e2e test",
+                                        "browser test",
+                                        "screenshot",
+                                        "ui test",
+                                        "local test"
+                                    ]
+                   },
+                   {
+                       "name":  "test-driven-development",
+                       "tags":  [
+                                    "testing",
+                                    "qa"
+                                ],
+                       "path":  "testing/test-driven-development",
+                       "priority":  "core",
+                       "category":  "testing",
+                       "description_short":  "Write test first, watch fail, write minimal code to pass",
+                       "triggers":  [
+                                        "tdd",
+                                        "test first",
+                                        "write test",
+                                        "before implementation",
+                                        "red green"
+                                    ]
+                   },
+                   {
+                       "name":  "senior-qa",
+                       "tags":  [
+                                    "testing",
+                                    "qa"
+                                ],
+                       "path":  "testing/senior-qa",
+                       "priority":  "situational",
+                       "category":  "testing",
+                       "description_short":  "QA and test automation for React/Next.js/Node.js: test suites, coverage, E2E",
+                       "triggers":  [
+                                        "test strategy",
+                                        "test coverage",
+                                        "qa",
+                                        "testing",
+                                        "e2e",
+                                        "integration test",
+                                        "unit test"
+                                    ]
+                   },
+                   {
+                       "name":  "skill-builder",
+                       "tags":  [
+                                    "tools",
+                                    "utility"
+                                ],
+                       "path":  "tools/skill-builder",
+                       "priority":  "situational",
+                       "category":  "tools",
+                       "description_short":  "Automatically builds AI skills from documentation, repos, PDFs, videos using Skill Seekers",
+                       "triggers":  [
+                                        "build skill",
+                                        "create skill",
+                                        "skill from",
+                                        "knowledge source",
+                                        "skill seeker"
+                                    ]
+                   },
+                   {
+                       "name":  "find-skills",
+                       "tags":  [
+                                    "tools",
+                                    "utility"
+                                ],
+                       "path":  "tools/find-skills",
+                       "priority":  "situational",
+                       "category":  "tools",
+                       "description_short":  "Discovers and installs skills from the open agent skills ecosystem",
+                       "triggers":  [
+                                        "find skill",
+                                        "discover skill",
+                                        "install skill",
+                                        "how do i"
+                                    ]
+                   },
+                   {
+                       "name":  "code-reviewer",
+                       "tags":  [
+                                    "tools",
+                                    "utility"
+                                ],
+                       "path":  "tools/code-reviewer",
+                       "priority":  "core",
+                       "category":  "tools",
+                       "description_short":  "Code review for TypeScript, JavaScript, Python, Swift, Kotlin, Go with security scanning",
+                       "triggers":  [
+                                        "code review",
+                                        "review code",
+                                        "pr review",
+                                        "code quality",
+                                        "static analysis"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-positioning",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-positioning",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "Market positioning using April Dunford framework with JTBD discovery",
+                       "triggers":  [
+                                        "positioning",
+                                        "differentiation",
+                                        "market position",
+                                        "value proposition",
+                                        "category"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-ideation",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-ideation",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "Generates and evaluates startup ideas and market opportunities",
+                       "triggers":  [
+                                        "idea",
+                                        "brainstorm",
+                                        "startup idea",
+                                        "business idea",
+                                        "concept"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-financial-modeling",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-financial-modeling",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "3-5 year financial models: revenue, costs, cash flow, fundraising scenarios",
+                       "triggers":  [
+                                        "financial model",
+                                        "revenue projection",
+                                        "burn rate",
+                                        "runway",
+                                        "fundraising",
+                                        "investor",
+                                        "p\u0026l"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-design",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-design",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "Full startup design: market research, business model, validation, brand, product",
+                       "triggers":  [
+                                        "startup design",
+                                        "business plan",
+                                        "lean canvas",
+                                        "market research",
+                                        "business model",
+                                        "idea validation"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-pitch",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-pitch",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "Investor pitch scripts in multiple formats with Q\u0026A prep and roleplay",
+                       "triggers":  [
+                                        "pitch",
+                                        "investor pitch",
+                                        "pitch deck",
+                                        "fundraising",
+                                        "elevator pitch",
+                                        "demo day"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-metrics-framework",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-metrics-framework",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "SaaS metrics: CAC, LTV, burn multiple, unit economics, growth efficiency",
+                       "triggers":  [
+                                        "metrics",
+                                        "kpi",
+                                        "saas metrics",
+                                        "cac",
+                                        "ltv",
+                                        "unit economics",
+                                        "growth",
+                                        "dashboard"
+                                    ]
+                   },
+                   {
+                       "name":  "startup-launch",
+                       "tags":  [
+                                    "startup",
+                                    "business"
+                                ],
+                       "path":  "startup/startup-launch",
+                       "priority":  "situational",
+                       "category":  "startup",
+                       "description_short":  "End-to-end launch guidance from idea validation to market entry",
+                       "triggers":  [
+                                        "launch",
+                                        "go-to-market",
+                                        "market entry",
+                                        "product launch",
+                                        "mvp"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-content-brief",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/content/seo-content-brief",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "SEO content briefs with per-section word counts and competitor scoring",
+                       "triggers":  [
+                                        "content brief",
+                                        "brief",
+                                        "outline",
+                                        "writing brief"
+                                    ]
+                   },
+                   {
+                       "name":  "senior-backend",
+                       "tags":  [
+                                    "backend",
+                                    "api",
+                                    "server"
+                                ],
+                       "path":  "backend/senior-backend",
+                       "priority":  "core",
+                       "category":  "backend",
+                       "description_short":  "Scalable backend with Node.js, Express, Postgres, GraphQL, REST APIs including auth and DB optimization",
+                       "triggers":  [
+                                        "api",
+                                        "rest api",
+                                        "graphql",
+                                        "backend",
+                                        "database",
+                                        "query optimization",
+                                        "endpoint",
+                                        "server"
+                                    ]
+                   },
+                   {
+                       "name":  "writing-plans",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/writing-plans",
+                       "priority":  "core",
+                       "category":  "agents",
+                       "description_short":  "Writes comprehensive implementation plans for multi-step tasks",
+                       "triggers":  [
+                                        "plan",
+                                        "implementation plan",
+                                        "multi-step",
+                                        "spec",
+                                        "requirements",
+                                        "roadmap"
+                                    ]
+                   },
+                   {
+                       "name":  "subagent-driven-development",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/subagent-driven-development",
+                       "priority":  "core",
+                       "category":  "agents",
+                       "description_short":  "Executes plans by dispatching fresh subagents per independent task with isolated context",
+                       "triggers":  [
+                                        "subagent",
+                                        "parallel tasks",
+                                        "independent tasks",
+                                        "multi-agent",
+                                        "dispatch"
+                                    ]
+                   },
+                   {
+                       "name":  "3d-web-experience",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/3d-web-experience",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Expert in Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes for the web",
+                       "triggers":  [
+                                        "3d",
+                                        "three.js",
+                                        "webgl",
+                                        "react three fiber",
+                                        "spline",
+                                        "3d scene",
+                                        "3d model",
+                                        "webxr"
+                                    ]
+                   },
+                   {
+                       "name":  "supabase-postgres-best-practices",
+                       "tags":  [
+                                    "backend",
+                                    "api",
+                                    "server"
+                                ],
+                       "path":  "backend/supabase-postgres-best-practices",
+                       "priority":  "core",
+                       "category":  "backend",
+                       "description_short":  "Postgres performance optimization: queries, schemas, indexes, connection management",
+                       "triggers":  [
+                                        "postgres",
+                                        "postgresql",
+                                        "query",
+                                        "index",
+                                        "migration",
+                                        "schema",
+                                        "sql",
+                                        "database performance"
+                                    ]
+                   },
+                   {
+                       "name":  "supabase",
+                       "tags":  [
+                                    "backend",
+                                    "api",
+                                    "server"
+                                ],
+                       "path":  "backend/supabase",
+                       "priority":  "core",
+                       "category":  "backend",
+                       "description_short":  "Complete Supabase: Database, Auth, Edge Functions, Realtime, Storage, RLS, migrations",
+                       "triggers":  [
+                                        "supabase",
+                                        "auth",
+                                        "login",
+                                        "signup",
+                                        "session",
+                                        "jwt",
+                                        "rls",
+                                        "row level security",
+                                        "database",
+                                        "migration",
+                                        "realtime",
+                                        "storage",
+                                        "edge function",
+                                        "postgres"
+                                    ]
+                   },
+                   {
+                       "name":  "grill-me",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/grill-me",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Interviews you relentlessly about a plan to resolve every branch of the decision tree",
+                       "triggers":  [
+                                        "grill me",
+                                        "stress test",
+                                        "review plan",
+                                        "design review",
+                                        "decision tree"
+                                    ]
+                   },
+                   {
+                       "name":  "caveman-commit",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/caveman-commit",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Ultra-compressed Conventional Commits with max 50 char subject, no fluff",
+                       "triggers":  [
+                                        "commit",
+                                        "commit message",
+                                        "generate commit",
+                                        "/commit"
+                                    ]
+                   },
+                   {
+                       "name":  "caveman",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/caveman",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Ultra-compressed communication mode cutting token usage ~75% with intensity levels: lite, full, ultra",
+                       "triggers":  [
+                                        "caveman",
+                                        "terse",
+                                        "concise",
+                                        "less tokens",
+                                        "be brief",
+                                        "short response"
+                                    ]
+                   },
+                   {
+                       "name":  "cavecrew",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/cavecrew",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Delegates to caveman-style subagents (investigator, builder, reviewer) with ~60% compressed output to save main context",
+                       "triggers":  [
+                                        "delegate",
+                                        "subagent",
+                                        "cavecrew",
+                                        "investigator",
+                                        "builder",
+                                        "reviewer",
+                                        "save context"
+                                    ]
+                   },
+                   {
+                       "name":  "finishing-a-development-branch",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/finishing-a-development-branch",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Guides completion of dev work with structured merge/PR/cleanup options",
+                       "triggers":  [
+                                        "finish branch",
+                                        "merge",
+                                        "pull request",
+                                        "pr",
+                                        "cleanup branch"
+                                    ]
+                   },
+                   {
+                       "name":  "caveman-stats",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/caveman-stats",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "Shows real token usage and estimated savings from caveman mode",
+                       "triggers":  [
+                                        "/caveman-stats",
+                                        "token usage",
+                                        "token savings"
+                                    ]
+                   },
+                   {
+                       "name":  "caveman-review",
+                       "tags":  [
+                                    "agent",
+                                    "workflow",
+                                    "automation"
+                                ],
+                       "path":  "agents/caveman-review",
+                       "priority":  "situational",
+                       "category":  "agents",
+                       "description_short":  "One-line-per-finding code review: location, problem, fix",
+                       "triggers":  [
+                                        "review pr",
+                                        "code review",
+                                        "review diff",
+                                        "/review",
+                                        "/caveman-review"
+                                    ]
+                   },
+                   {
+                       "name":  "design-motion-principles",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/design-motion-principles",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Motion/interaction design auditor based on Emil Kowalski, Jakub Krehel, and Jhey Tompkins",
+                       "triggers":  [
+                                        "motion design",
+                                        "animation",
+                                        "transition",
+                                        "hover",
+                                        "framer motion",
+                                        "ui animation"
+                                    ]
+                   },
+                   {
+                       "name":  "senior-security",
+                       "tags":  [
+                                    "architecture",
+                                    "security"
+                                ],
+                       "path":  "senior/senior-security",
+                       "priority":  "situational",
+                       "category":  "senior",
+                       "description_short":  "Application security, penetration testing, threat modeling, crypto, compliance auditing",
+                       "triggers":  [
+                                        "security",
+                                        "auth",
+                                        "authentication",
+                                        "authorization",
+                                        "penetration test",
+                                        "crypto",
+                                        "encryption",
+                                        "audit",
+                                        "compliance",
+                                        "xss",
+                                        "csrf",
+                                        "sql injection"
+                                    ]
+                   },
+                   {
+                       "name":  "senior-architect",
+                       "tags":  [
+                                    "architecture",
+                                    "security"
+                                ],
+                       "path":  "senior/senior-architect",
+                       "priority":  "core",
+                       "category":  "senior",
+                       "description_short":  "System architecture design for React, Next.js, Node.js, Postgres, GraphQL with diagrams and trade-off analysis",
+                       "triggers":  [
+                                        "architecture",
+                                        "system design",
+                                        "tech stack",
+                                        "scalable",
+                                        "diagram",
+                                        "dependency",
+                                        "integration pattern"
+                                    ]
+                   },
+                   {
+                       "name":  "web-design-guidelines",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/web-design-guidelines",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Reviews UI code for Web Interface Guidelines compliance",
+                       "triggers":  [
+                                        "web design",
+                                        "design guidelines",
+                                        "ui review",
+                                        "design audit",
+                                        "best practices"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-competitor-pages",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/content/seo-competitor-pages",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "SEO-optimized comparison and alternatives pages with schema",
+                       "triggers":  [
+                                        "comparison page",
+                                        "vs page",
+                                        "alternatives",
+                                        "x vs y"
+                                    ]
+                   },
+                   {
+                       "name":  "seo-cluster",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo/content/seo-cluster",
+                       "priority":  "situational",
+                       "category":  "seo",
+                       "description_short":  "SERP-based topic clustering for hub-and-spoke content architecture",
+                       "triggers":  [
+                                        "topic cluster",
+                                        "content cluster",
+                                        "pillar page",
+                                        "hub and spoke"
+                                    ]
+                   },
+                   {
+                       "name":  "seo",
+                       "tags":  [
+                                    "seo",
+                                    "marketing"
+                                ],
+                       "path":  "seo",
+                       "priority":  "situational",
+                       "category":  "root",
+                       "description_short":  "Comprehensive SEO analysis for any website: audits, technical, content, schema, GEO",
+                       "triggers":  [
+                                        "seo",
+                                        "search engine optimization",
+                                        "seo check",
+                                        "seo analysis"
+                                    ]
+                   },
+                   {
+                       "name":  "vercel-react-best-practices",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/vercel-react-best-practices",
+                       "priority":  "core",
+                       "category":  "frontend",
+                       "description_short":  "40+ React/Next.js performance rules: waterfalls, bundles, server perf, re-renders, rendering, JS perf",
+                       "triggers":  [
+                                        "react",
+                                        "component",
+                                        "hook",
+                                        "useeffect",
+                                        "usememo",
+                                        "usestate",
+                                        "rerender",
+                                        "bundle",
+                                        "waterfall",
+                                        "memo",
+                                        "performance"
+                                    ]
+                   },
+                   {
+                       "name":  "performance",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/performance",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Lighthouse/CWV optimization, perf budgets, resource optimization, load time reduction",
+                       "triggers":  [
+                                        "performance",
+                                        "speed up",
+                                        "load time",
+                                        "page speed",
+                                        "lighthouse",
+                                        "core web vitals",
+                                        "slow",
+                                        "optimize"
+                                    ]
+                   },
+                   {
+                       "name":  "next-best-practices",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/next-best-practices",
+                       "priority":  "core",
+                       "category":  "frontend",
+                       "description_short":  "Next.js file conventions, RSC boundaries, data patterns, async APIs, metadata, image/font optimization",
+                       "triggers":  [
+                                        "next.js",
+                                        "nextjs",
+                                        "rsc",
+                                        "server component",
+                                        "server action",
+                                        "layout",
+                                        "metadata",
+                                        "route handler",
+                                        "app router"
+                                    ]
+                   },
+                   {
+                       "name":  "impeccable",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/impeccable",
+                       "priority":  "core",
+                       "category":  "frontend",
+                       "description_short":  "Full-spectrum frontend UI design: critique, polish, audit, redesign, accessibility, typography, color, motion, responsive",
+                       "triggers":  [
+                                        "design",
+                                        "ui",
+                                        "ux",
+                                        "redesign",
+                                        "polish",
+                                        "layout",
+                                        "typography",
+                                        "accessibility",
+                                        "responsive",
+                                        "color",
+                                        "theme"
+                                    ]
+                   },
+                   {
+                       "name":  "shadcn",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/shadcn",
+                       "priority":  "core",
+                       "category":  "frontend",
+                       "description_short":  "Manages shadcn/ui components: add, search, fix, debug, style, compose UI with components.json",
+                       "triggers":  [
+                                        "shadcn",
+                                        "ui component",
+                                        "components.json",
+                                        "button",
+                                        "dialog",
+                                        "dropdown",
+                                        "design system"
+                                    ]
+                   },
+                   {
+                       "name":  "scroll-experience",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/scroll-experience",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Immersive scroll-driven experiences: parallax, scroll animations, interactive narratives",
+                       "triggers":  [
+                                        "scroll",
+                                        "parallax",
+                                        "scroll animation",
+                                        "scroll story",
+                                        "scroll-driven"
+                                    ]
+                   },
+                   {
+                       "name":  "remotion-best-practices",
+                       "tags":  [
+                                    "frontend",
+                                    "ui",
+                                    "react"
+                                ],
+                       "path":  "frontend/remotion-best-practices",
+                       "priority":  "situational",
+                       "category":  "frontend",
+                       "description_short":  "Best practices for Remotion video creation in React",
+                       "triggers":  [
+                                        "remotion",
+                                        "video",
+                                        "programmatic video",
+                                        "react video",
+                                        "mp4",
+                                        "composition"
+                                    ]
+                   }
+               ],
+    "version":  1,
+    "skillCount":  55,
+    "generated":  "2026-06-03"
+}
